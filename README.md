@@ -2,7 +2,7 @@
 
 ![Kattis](https://open.kattis.com/images/site/header/logo-empty.png?0bb770=)
 
-Here are my solutions for some of problems from  [Kattis](https://open.kattis.com/).
+Here are my solutions for some problems from  [Kattis](https://open.kattis.com/).
 
 ### Collection of solved problems:
 
