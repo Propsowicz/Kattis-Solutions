@@ -21,4 +21,4 @@ Here are my solutions for some of problems from  [Kattis](https://open.kattis.co
 | [Refrigerator Transport](https://open.kattis.com/problems/refrigerator)          | Test1         | easy (2.5)  |
 | [Simple Arithmetic](https://open.kattis.com/problems/simplearithmetic)          | Test1         | medium (5)  |
 
-* by Kattis app
+ * by Kattis app
