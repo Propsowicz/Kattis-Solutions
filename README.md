@@ -8,17 +8,17 @@ Here are my solutions for some of problems from  [Kattis](https://open.kattis.co
 
 | Problem description     | Link to code      | Classification *    |
 | ------------- | ---------------- | -------- |
-| [Boat Parts](https://open.kattis.com/problems/boatparts)          | https://github.com/Propsowicz/Kattis-Solutions/blob/main/solutions/boatparts.py         | easy (1.6)  |
-| [Counting Stars](https://open.kattis.com/problems/countingstars)          | Test1         | medium (3.1)  |
-| [A Different Problem](https://open.kattis.com/problems/different)          | Test1         | medium (2.9)  |
-| [Double Password](https://open.kattis.com/problems/doublepassword)          | Test1         | easy (1.5)  |
-| [Early Winter](https://open.kattis.com/problems/earlywinter)          | Test1         | easy (1.7)  |
-| [IsItHalloween.com](https://open.kattis.com/problems/isithalloween)          | Test1         | easy (1.5)  |
-| [Polygon Area](https://open.kattis.com/problems/polygonarea)          | Test1         | medium (3.0)  |
-| [Popcorn](https://open.kattis.com/problems/popkorn)          | Test1         | medium (3.1)  |
-| [Problem Classification](https://open.kattis.com/problems/problemclassification)          | Test1         | medium (3.0)  |
-| [Rational Arithmetic](https://open.kattis.com/problems/rationalarithmetic)          | Test1         | medium (3.5)  |
-| [Refrigerator Transport](https://open.kattis.com/problems/refrigerator)          | Test1         | easy (2.5)  |
-| [Simple Arithmetic](https://open.kattis.com/problems/simplearithmetic)          | Test1         | medium (5)  |
+| [Boat Parts](https://open.kattis.com/problems/boatparts)          | [code](https://github.com/Propsowicz/Kattis-Solutions/blob/main/solutions/boatparts.py)         | easy (1.6)  |
+| [Counting Stars](https://open.kattis.com/problems/countingstars)          | [code](https://github.com/Propsowicz/Kattis-Solutions/blob/main/solutions/countingstars.py)         | medium (3.1)  |
+| [A Different Problem](https://open.kattis.com/problems/different)          | [code](https://github.com/Propsowicz/Kattis-Solutions/blob/main/solutions/different.py)         | medium (2.9)  |
+| [Double Password](https://open.kattis.com/problems/doublepassword)          | [code](https://github.com/Propsowicz/Kattis-Solutions/blob/main/solutions/doublepassword.py)         | easy (1.5)  |
+| [Early Winter](https://open.kattis.com/problems/earlywinter)          | [code](https://github.com/Propsowicz/Kattis-Solutions/blob/main/solutions/earlywinter.py)         | easy (1.7)  |
+| [IsItHalloween.com](https://open.kattis.com/problems/isithalloween)          | [code](https://github.com/Propsowicz/Kattis-Solutions/blob/main/solutions/isithalloween.py)         | easy (1.5)  |
+| [Polygon Area](https://open.kattis.com/problems/polygonarea)          | [code](https://github.com/Propsowicz/Kattis-Solutions/blob/main/solutions/polygonarea.py)         | medium (3.0)  |
+| [Popcorn](https://open.kattis.com/problems/popkorn)          | [code](https://github.com/Propsowicz/Kattis-Solutions/blob/main/solutions/popkorn.py)         | medium (3.1)  |
+| [Problem Classification](https://open.kattis.com/problems/problemclassification)          | [code](https://github.com/Propsowicz/Kattis-Solutions/blob/main/solutions/problemclassification.py)         | medium (3.0)  |
+| [Rational Arithmetic](https://open.kattis.com/problems/rationalarithmetic)          | [code](https://github.com/Propsowicz/Kattis-Solutions/blob/main/solutions/rationalarithmetic.py)         | medium (3.5)  |
+| [Refrigerator Transport](https://open.kattis.com/problems/refrigerator)          | [code](https://github.com/Propsowicz/Kattis-Solutions/blob/main/solutions/refrigerator.py)         | easy (2.5)  |
+| [Simple Arithmetic](https://open.kattis.com/problems/simplearithmetic)          | [code](https://github.com/Propsowicz/Kattis-Solutions/blob/main/solutions/simplearithmetic.py)         | medium (5)  |
 
 *-by Kattis app
