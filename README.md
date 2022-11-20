@@ -6,7 +6,7 @@ Here are my solutions for some of problems from  [Kattis](https://open.kattis.co
 
 ### Collection of solved problems:
 
-| FirstName     | LastName      | City     |
+| Problem description     | Link to code      | Classification     |
 | ------------- | ------------- | -------- |
 | John          | Test1         | NewYork  |
 | Bob           | Test2         | Toronto  |
