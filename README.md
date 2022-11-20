@@ -6,7 +6,7 @@ Here are my solutions for some of problems from  [Kattis](https://open.kattis.co
 
 ### Collection of solved problems:
 
-| Problem description     | Link to code      | Classification     |
+| Problem description     | Link to code      | Classification *    |
 | ------------- | ---------------- | -------- |
 | [Boat Parts](https://open.kattis.com/problems/boatparts)          | Test1         | easy (1.6)  |
 | [Counting Stars](https://open.kattis.com/problems/countingstars)          | Test1         | medium (3.1)  |
@@ -21,4 +21,4 @@ Here are my solutions for some of problems from  [Kattis](https://open.kattis.co
 | [Refrigerator Transport](https://open.kattis.com/problems/refrigerator)          | Test1         | easy (2.5)  |
 | [Simple Arithmetic](https://open.kattis.com/problems/simplearithmetic)          | Test1         | medium (5)  |
 
-
+* - by Kattis app
