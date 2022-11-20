@@ -8,5 +8,5 @@ Here are my solutions for some of problems from  [Kattis](https://open.kattis.co
 
 | Problem description     | Link to code      | Classification     |
 | ------------- | ---------------- | -------- |
-| [Boat Parts]([https://open.kattis.com/](https://open.kattis.com/problems/boatparts"))          | Test1         | easy (1.6)  |
+| ([Boat Parts](https://open.kattis.com/problems/boatparts"))          | Test1         | easy (1.6)  |
 
