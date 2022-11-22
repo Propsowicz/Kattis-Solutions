@@ -25,8 +25,8 @@ for r in range(len(data)):
 
 pieces_in_order = "KQRBNP"
 
-white_list = sorted(sorted(white, key=lambda word: word[2], reverse=False), key=lambda word: [pieces_in_order.index(c) for c in word[0]])
-black_list = sorted(sorted(black, key=lambda word: word[2], reverse=True), key=lambda word: [pieces_in_order.index(c) for c in word[0]])
+white_list = sorted(sorted(white, key=lambda pos: pos[2], reverse=False), key=lambda pos: [pieces_in_order.index(c) for c in pos[0]])
+black_list = sorted(sorted(black, key=lambda pos: pos[2], reverse=True), key=lambda pos: [pieces_in_order.index(c) for c in pos[0]])
 
 white_ans = 'White: '
 for i in white_list:
