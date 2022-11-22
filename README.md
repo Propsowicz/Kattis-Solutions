@@ -14,7 +14,6 @@ Here are my solutions for some problems from  [Kattis](https://open.kattis.com/)
 | [Double Password](https://open.kattis.com/problems/doublepassword)          | [code](https://github.com/Propsowicz/Kattis-Solutions/blob/main/solutions/doublepassword.py)         | easy (1.5)  |
 | [Early Winter](https://open.kattis.com/problems/earlywinter)          | [code](https://github.com/Propsowicz/Kattis-Solutions/blob/main/solutions/earlywinter.py)         | easy (1.7)  |
 | [Help Me With The Game](https://open.kattis.com/problems/helpme)          | [code](https://github.com/Propsowicz/Kattis-Solutions/blob/main/solutions/helpme.py)         | medium (3.0)  |
-
 | [IsItHalloween.com](https://open.kattis.com/problems/isithalloween)          | [code](https://github.com/Propsowicz/Kattis-Solutions/blob/main/solutions/isithalloween.py)         | easy (1.5)  |
 | [Polygon Area](https://open.kattis.com/problems/polygonarea)          | [code](https://github.com/Propsowicz/Kattis-Solutions/blob/main/solutions/polygonarea.py)         | medium (3.0)  |
 | [Popcorn](https://open.kattis.com/problems/popkorn)          | [code](https://github.com/Propsowicz/Kattis-Solutions/blob/main/solutions/popkorn.py)         | medium (3.1)  |
